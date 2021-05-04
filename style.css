@@ -1,0 +1,16 @@
+input{
+    font-size: xx-large;
+    margin: 0px;
+}
+fieldset{
+    position: fixed;
+    top: 0px;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    background-color: white;
+    
+}
+body{
+    background-color: black;
+}
